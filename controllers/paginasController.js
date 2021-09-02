@@ -1,4 +1,4 @@
-import { Viaje } from '../Models/Viajes.js';
+import { Viaje } from '../models/Viajes.js';
 import { Testimonial } from '../models/Testimoniales.js';
 
 const paginaInicio = async(req, res) => {
